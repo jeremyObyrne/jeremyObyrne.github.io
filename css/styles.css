@@ -1,0 +1,150 @@
+
+nav.menu_principal ul li.principBtn a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+/*	font-family: "avenir";*/
+	font-size: 25px;
+}
+
+nav.menu_principal ul li.principBtn {
+	list-style-type: none;
+	padding: 20px;
+	display: inline-block;
+}
+
+nav.menu_principal ul li.principBtn:hover {
+	background-color: grey;
+}
+
+nav.menu_principal ul {
+	background-color: black;
+/*	padding: 20px;*/
+}
+
+
+
+
+
+
+
+
+
+/*	Design of the Publication Page	*/
+
+
+div.Publications {
+/*	margin-left: 500px;*/
+/*	text-align: center;*/
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 40%;
+    	font-size: large;
+  	margin-top: 100px;
+  	line-height: 130%;
+}
+
+div.Publications h2 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+nav.Publications {
+	margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+/*	Design of the CV Page	*/
+
+div.CV {
+	font-size: large;
+  	margin-top: 100px;
+  	line-height: 130%;
+}
+
+nav.CV {
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 50%;
+    	font-size: large;
+  	margin-top: 70px;
+  	line-height: 130%;
+/*    	background-color: blue;*/
+}
+
+
+h2.CV {
+	text-align: center;
+	margin-top: 50px;
+/*    	font-size: large;*/
+}
+	
+
+
+
+
+
+
+
+/*	Design of the Home - Page	*/
+h1.HomePage{ 
+	text-align: center;
+	margin-top: 200px;
+}
+
+div#Content {
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 46%;
+    	margin-top: 180px;
+/*	background-color: orange;*/
+}
+
+
+
+
+div#Content div {
+	display: inline-block;
+/*	width: 48%;*/
+	vertical-align: middle;
+}
+div#Content div.BasicInfos {
+/*	width: 50%;*/
+/*	background-color:green;*/
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 54	%;
+	font-size: large;
+	line-height: 150%;
+	font-weight: 550;
+}
+
+	
+
+div#Content div.Photo {
+/*	width: 50%;*/
+/*	background-color:yellow;*/
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 45%;
+}	
+
+
+body {font-family: "avenir", sans-serif; 
+}
+
+
+
+
+
+
+
+
+
